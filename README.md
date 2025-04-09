@@ -1,1 +1,0 @@
-# Jenkins_sonaqube_docker_cicd
